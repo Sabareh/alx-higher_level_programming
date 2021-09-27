@@ -9,3 +9,5 @@
   0x03. Python - Data Structures: Lists, Tuples
 ## Project 5
   0x04. Python - More Data Structures: Set, Dictionary
+## Project 6
+  0x05. Python - Exceptions
