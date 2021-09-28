@@ -1,0 +1,7 @@
+comp
+pep
+*.pyc
+*main.py
+*~
+*.swp
+*#
