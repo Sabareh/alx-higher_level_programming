@@ -11,3 +11,5 @@
   0x04. Python - More Data Structures: Set, Dictionary
 ## Project 6
   0x05. Python - Exceptions
+## Project 7
+  0x06. Python - Classes and Objects
