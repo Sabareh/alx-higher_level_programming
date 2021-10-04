@@ -13,3 +13,7 @@
   0x05. Python - Exceptions
 ## Project 7
   0x06. Python - Classes and Objects
+## Project 8
+  0x07. Python - Test-driven development
+## Project 9
+   0x08. Python - More Classes and Objects
