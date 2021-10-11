@@ -19,3 +19,5 @@
    0x08. Python - More Classes and Objects
 ## Project 10
   0x09. Python - Everything is object
+## Project 11
+  0x0A. Python - Inheritance
