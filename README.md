@@ -21,3 +21,5 @@
   0x09. Python - Everything is object
 ## Project 11
   0x0A. Python - Inheritance
+## Project 12
+  0x0B. Python - Input/Output
