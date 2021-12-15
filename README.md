@@ -25,3 +25,6 @@
   0x0B. Python - Input/Output
 ## Project 13
   0x0C. Python - Almost a circle
+## Project 14
+  0x12. JavaScript - Warm up
+## Project 15
