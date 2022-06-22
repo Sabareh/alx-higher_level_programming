@@ -1,4 +1,4 @@
-# ALX SE High-Level Programming
+# ALX SE High-Level Programming in Python
 ## Project 1
   0x00. Python - Hello, World
 ## Project 2
